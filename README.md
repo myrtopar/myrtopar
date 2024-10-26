@@ -4,7 +4,7 @@ I am a senior year computer science student and I'm driven by a deep passion for
 
 - 🎓 I am currently studying **Informatics and Telecommunications** at the National and Kapodistrian University of Athens.
 - 🧑‍🏫 I'm a former **Programming Lab Assistant** focused on **MIPS Assembly** and Computer Architecture.
-- 💻 Currently exploring **binary exploitation** and exploring vulnerable programs as a part of my final-year dissertation.
+- 💻 Currently associated with **binary exploitation** and exploration of vulnerable programs as a part of my final-year dissertation.
 - 🛠️ My favorite programming languages are **C** and **C++**.
 - 💡 I debug for fun!
 - 🎀 I love to break stereotypes in the IT community, proving that tech has room for every passion and personality!
