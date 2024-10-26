@@ -9,7 +9,7 @@ I am a senior year computer science student and I'm driven by a deep passion for
 - 💡 I debug for fun!
 - 🎀 I love to break stereotypes in the IT community, proving that tech has room for every passion and personality!
 
-Here are a few things I've picked up along my journey.
+Here are a few things I've picked up along my journey:
 - C | C++ | Python
 - MIPS assembly | x86 assembly
 - Git | Github
