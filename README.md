@@ -11,9 +11,9 @@ I am a senior year computer science student and I'm driven by a deep passion for
 
 Here are a few things I've picked up along my journey:
 - C | C++ | Python
-- MIPS assembly | x86 assembly
 - Git | Github
 - Docker
+- MIPS assembly | x86 assembly
 - Java | SQL
 - Prolog | Haskell
 - JavaScript | PHP | React.js | HTML | CSS
