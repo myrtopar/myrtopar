@@ -3,7 +3,7 @@
 I am a senior year computer science student and I'm driven by a deep passion for computers, problem-solving, and exploring low-level matters!
 
 🎓 I am currently studying **Informatics and Telecommunications** at the National and Kapodistrian University of Athens.<br />
-🧑‍🏫 I'm a former **Programming Lab Assistant** focused on **MIPS Assembly** and Computer Architecture.<br />
+👩‍💻 I'm a former **Programming Lab Assistant** focused on **MIPS Assembly** and Computer Architecture.<br />
 💻 Currently associated with **binary exploitation** and exploration of vulnerable programs as a part of my final-year dissertation.<br />
 🛠️ My favorite programming languages are **C** and **C++**.<br />
 💡 I debug for fun!<br />
