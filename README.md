@@ -16,7 +16,7 @@ Here are a few things I've picked up along my journey:
 - Git | Github
 - Docker
 - MIPS assembly | x86 assembly
-- Java | SQL
 - Prolog
+- Java | SQL
 
 
