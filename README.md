@@ -1,22 +1,21 @@
 ## 👋 Hi there, I am Myrto!
 
-I am a senior year computer science student and I'm driven by a deep passion for computers, problem-solving, and exploring low-level matters!
+I am a Computer Science graduate and **Junior Software Engineer** driven by a deep passion for computers, problem-solving, and exploring low-level matters!
 
-🎓 I am currently studying **Informatics and Telecommunications** at the National and Kapodistrian University of Athens.<br />
-👩‍💻 I'm a former **Programming Lab Assistant** focused on **MIPS Assembly** and Computer Architecture.<br />
-💻 Currently associated with **binary exploitation** and exploration of vulnerable programs as a part of my final-year dissertation.<br />
+🎓 I graduated from **Informatics and Telecommunications** at the National and Kapodistrian University of Athens.<br />
+👩‍💻 I work on the **development of energy market platforms**, mainly focusing on **backend systems**.<br />
+🐧 As a hobby, I enjoy learning about **Linux environments, the Linux kernel, and container technologies**.<br />
+💻 My academic work included **binary exploitation** and exploration of vulnerable programs as part of my final-year dissertation.<br />
+👩‍🏫 I'm a former **Programming Lab Assistant** focused on **MIPS Assembly** and Computer Architecture.<br />
 🛠️ My favorite programming languages are **C** and **C++**.<br />
 💡 I actually enjoy debugging!<br />
-<!---
-🎀 I love to break stereotypes in the IT community, proving that tech has room for every passion and personality!<br />
--->
 
 Here are a few things I've picked up along my journey:
-- C | C++ | Python
-- Git | Github
+- C | C++ | Python | Bash
+- JavaScript | TypeScript
+- Node.js | Express | NestJS
+- Vue | Vuetify
+- Git | GitHub
 - Docker
 - MIPS assembly | x86 assembly
-- Prolog
-- Java | SQL
-
 
